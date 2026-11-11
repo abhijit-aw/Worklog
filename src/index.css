@@ -234,7 +234,7 @@ select:focus {
   box-shadow: 0 8px 20px -8px var(--violet);
 }
 .logo::after {
-  content: "C";
+  content: "W";
   color: #fff;
   font-weight: 800;
   font-size: 18px;

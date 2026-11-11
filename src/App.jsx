@@ -119,7 +119,6 @@ function Login() {
               </button>
             ))}
           </div>
-          <p className="muted small">Demo password is 1234. Mock login for demo only.</p>
         </form>
       </section>
     </div>
